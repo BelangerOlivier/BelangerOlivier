@@ -1,16 +1,25 @@
-## Hi there 👋
+👋 Bonjour, I'm Olivier.
 
-<!--
-**BelangerOlivier/BelangerOlivier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack software developer based in Quebec, Canada.
 
-Here are some ideas to get you started:
+Here is a non-exhaustive list of the languages and technologies I am proficient in: 
+- `C#`
+- `Javascript`
+- `Typescript`
+- `SQL` (SQL Server, PostgreSQL)
+- `NoSQL` (MongoDB, CosmoDB)
+- `React`
+- `Vue`
+- `Cypress`
+- `Azure DevOps`
+- `AWS`
+- `Docker`
+- `SSRS`
+- `WPF & WinForms`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m also getting good at creating AI agents to handle repetitive tasks, which allows me to spend more time petting my cats who are in dire need of attention.
+
+I am currently working on a few projects in parallel (when I am not devoting all my time to my studies):
+- PDF Auto Compress: An automatic PDF compression tool, so my colleagues and teaches stop sending me PDF files that weigh as much as a thousand suns making them impossible to email back without making my router scream in agony.
+- Around The Table: A website hosted for my family and me to share our recipes and uncover all the secrets behind my mother's recipes.
+- SSRS Client: (Currently on hold) A library providing a better interface for connecting to SSRS and more easily managing folders and reports.
