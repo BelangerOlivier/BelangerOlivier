@@ -4,7 +4,7 @@ I'm a full-stack software developer based in Quebec, Canada.
 
 Here is a non-exhaustive list of the languages and technologies I am proficient in: 
 - `C#`, `Javascript`, `Typescript`, `SQL` (SQL Server, PostgreSQL, MySQL), `NoSQL` (MongoDB, CosmoDB)
-- `React`, `Vue`, `Cypress`, `Azure DevOps`, `AWS`, `Docker`, `SSRS`, `WPF & WinForms`
+- `Agentic AI`, `React`, `Vue`, `Cypress`, `Azure DevOps`, `AWS`, `Docker`, `SSRS`, `WPF, WinForms, EtoForms`
 
 I’m also getting good at creating AI agents to handle repetitive tasks, which allows me to spend more time petting my cats who are in dire need of attention.
 
